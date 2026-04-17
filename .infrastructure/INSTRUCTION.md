@@ -10,7 +10,7 @@ kubectl apply -f namespace.yml
 ```
 2. **Create Configuration Resources:**
 ```
-kubectl apply -f configmap.yml
+kubectl apply -f confgiMap.yml
 ```
 
 ```
